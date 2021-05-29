@@ -1,0 +1,94 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: white;
+}
+
+.home-page {
+    background-image: url("../img/ken-cheung-Y8rPL2GJyfM-unsplash.jpg");
+    background-repeat: no-repeat;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    min-height: 750px;
+}
+
+.navbar {
+    background-color: whitesmoke !important;
+    padding: 10px;
+}
+
+.nav-link:hover {
+    color: black !important;
+}
+
+.title-home {
+    font-size: 56px;
+    width: 400px;
+    color: white;
+    margin-left: 75px;
+}
+
+.vertical-center {
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.sub-title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.sub-title-text {
+    font-size: 25px;
+}
+
+.input-group-home {
+    width: 100px !important;
+}
+
+.btn-submit-reg {
+    border: 1px solid #417FFA !important;
+    color: #417FFA;
+    height: 100%;
+    width: 100%;
+}
+
+.btn-submit-reg:hover {
+    color: white !important;
+    background-color: #417FFA;
+}
+
+.btn-color {
+    border: 1px solid #417FFA !important;
+    color: #417FFA;
+}
+
+.btn-color:hover {
+    color: white !important;
+    background-color: #417FFA;
+}
+
+.link-color:hover {
+    color: #417FFA !important;
+    background-color: whitesmoke;
+}
+
+.link-color {
+    border: 1px solid #417FFA !important;
+    color: white !important;
+    background-color: #417FFA;
+    border-radius: 5px;
+}
+
+.register-group {
+    border: 1px solid #417FFA;
+    border-radius: 10px;
+    padding: 25px;
+}
